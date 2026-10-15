@@ -1,6 +1,6 @@
 /*Daniela Hernandez Lopez 
 Practica 7 
-Programa1.c*
+Programa1.c*/
 
 #include<stdio.h>
 int main ()
