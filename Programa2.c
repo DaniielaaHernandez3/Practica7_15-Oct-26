@@ -1,3 +1,7 @@
+/*Daniela Hernandez Lopez 
+Practica 7 
+Programa2.c*
+ 
 #include<stdio.h>
 int main()
 {
